@@ -1,6 +1,6 @@
 # Personality_Prediction_From_Voice_using_Deep_Learning
 
-This project attempts to predict the personality traits of a speaker based on the voice, as perceived by people listening to the person for the first time. It was developed as an academic group projectfor the course 11-785 Introduction to Deep Learning (Spring, 2022) at CMU.
+This project attempts to predict the personality traits of a speaker based on the voice, as perceived by people listening to the person for the first time. It was developed as an academic group project for the course 11-785 Introduction to Deep Learning (Spring 2022) at CMU.
 
 Team members: Ravi Patel, Chris Weddle, Mustafa Yilmaz, Haoyu Zhang
 
